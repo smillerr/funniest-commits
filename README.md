@@ -1,6 +1,6 @@
 # funniest-commits
 
-Have you ever started a new git repositoy and you don't know any good messages for your commits? This package will help you with that. Just so you can have a little fun while you do what you love most... Coding 
+Have you ever started a new git repository and you don't know any good messages for your commits? This package will help you with that. Just so you can have a little fun while you do what you love most... Coding 
 
 ## Install
 
